@@ -1,0 +1,42 @@
+   div#baslik {
+         width: 900px;
+         height: 70px;
+         text-align: center;
+         border: 1px solid;
+          margin: auto;
+         background-image: url('../../external.html?link=https://cdn.glitch.com/a58b0dc4-c088-4cab-9ce1-6db27d04f83a%2Fimages (4).jpeg?v=1596014980878');
+         font-size: 15px;
+         color: #00ff10;
+        }
+        div#menu {
+          width: 900;
+          border: 2px  solid ;
+          background-color: #fbff00;
+          margin: auto;
+        }
+        div#apklar {
+            width: 900px;
+            height: 5000px;
+            border: 2px solid ;          
+            margin: auto;
+            background-image: url('../../external.html?link=https://cdn.glitch.com/a58b0dc4-c088-4cab-9ce1-6db27d04f83a%2Findir (2).jpeg?v=1595970738119');
+            background-size: 900px;
+        }
+        
+        div#icerik {
+            width: 600px;
+            height: 600px;
+            border: 2px solid ;
+            margin: auto;
+        }
+        
+        div#iletisim {
+          width: 900px;
+          height: 1000px;
+          border: 2px solid;
+          background-color: #a1e9fb;
+          margin: auto;
+          text-align: center;
+        }
+        
+      
